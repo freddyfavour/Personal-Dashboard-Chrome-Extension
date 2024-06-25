@@ -1,8 +1,9 @@
-# Crypto Weather Chrome Extension - README
+# Personal Dashboard Chrome Extension - README
+![Personal Dashboard](https://github.com/freddyfavour/crypto-weather-extension/raw/main/personal%20dashboard.png)
 
 ## Overview
 
-The Crypto Weather Chrome Extension provides users with real-time cryptocurrency data and current weather information on a customizable homepage. It uses various APIs for up-to-date data and is designed for easy access.
+The Personal Dashboard Chrome Extension provides users with real-time cryptocurrency data and current weather information on a customizable homepage. It uses various APIs for up-to-date data and is designed for easy access.
 
 ## Features
 
@@ -42,4 +43,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For more details and to view the live extension, visit the [Crypto Weather Extension page](https://crypto-weather-api-chrome-ext.vercel.app/).
+For more details and to view the live extension, visit the [Personal Dashboard Extension page](https://crypto-weather-api-chrome-ext.vercel.app/).
