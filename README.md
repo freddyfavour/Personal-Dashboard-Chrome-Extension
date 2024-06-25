@@ -1,5 +1,6 @@
 # Personal Dashboard Chrome Extension - README
-![Personal Dashboard](https://github.com/freddyfavour/crypto-weather-extension/raw/main/personal%20dashboard.png)
+
+![Personal Dashboard](https://github.com/freddyfavour/Personal-Dashboard-Chrome-Extension/blob/master/personalDashboard.png?raw=true)
 
 ## Overview
 
@@ -22,7 +23,7 @@ The Personal Dashboard Chrome Extension provides users with real-time cryptocurr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/freddyfavour/crypto-weather-extension.git
+   git clone https://github.com/freddyfavour/Personal-Dashboard-Chrome-Extension.git
    ```
 2. **Open Chrome** and go to `chrome://extensions/`.
 3. **Enable Developer Mode**.
@@ -31,7 +32,7 @@ The Personal Dashboard Chrome Extension provides users with real-time cryptocurr
 ## Usage
 
 - **Open Chrome** to view the homepage with crypto and weather data.
-- **Customize Settings** in the extension for personalized experience.
+- **Customize Settings** in the extension for a personalized experience.
 
 ## Contributing
 
@@ -43,4 +44,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For more details and to view the live extension, visit the [Personal Dashboard Extension page](https://crypto-weather-api-chrome-ext.vercel.app/).
+For more details and to view the live extension, visit the [Personal Dashboard Extension page](https://chrome-dashboard-kappa.vercel.app/).
