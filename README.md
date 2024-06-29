@@ -34,6 +34,9 @@ The Personal Dashboard Chrome Extension provides users with real-time cryptocurr
 - **Open Chrome** to view the homepage with crypto and weather data.
 - **Customize Settings** in the extension for a personalized experience.
 
+## Contact
+If you have any questions or need to get in touch, feel free to [Email Me](mailto:alfredfavour76@gmail.com).
+
 ## Contributing
 
 Fork the repository and submit pull requests for new features or bug fixes.
